@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">g_p</string>
+    <string name="request_design">Request Design</string>
+    <string name="image">image</string>
+    <string name="graphic_type">Graphic type</string>
+    <string name="brand_name">Brand Name</string>
+    <string name="brand_tagline">Brand Tagline</string>
+    <string name="preferred_color_theme">Preferred Color Theme</string>
+    <string name="describe_your_vision_of_design">Describe your Vision of Design</string>
+    <string name="any_comments_you_want_to_add">Any comments you want to add</string>
+    <string name="wallet_balance">Wallet Balance</string>
+    <string name="next">Next</string>
+    <string name="post_ads">Post Ads</string>
+    <string name="choose_the_advertisement_type">Choose the Advertisement Type</string>
+    <string name="wide_banner">Wide Banner</string>
+    <string name="story_banner">Story Banner</string>
+    <string name="_52_places">52 places</string>
+    <string name="eat_at_nhome">eat at\nHome</string>
+    <string name="drink_at_nhome">drink at\nHome</string>
+    <string name="_50_places">50 places</string>
+    <string name="stay_healthy">stay\nHealthy</string>
+    <string name="_15_places">15 places</string>
+    <string name="sms_advertisement">SMS Advertisement</string>
+    <string name="text_sms">Get extra discount and save up to 20% extra with Gastos, Visit “Bistro Cafe” Sec-16, Chandigarh.<u>gsts.me/u3/BistroCafe-Chd</u></string>
+    <string name="whatsapp_advertisement">Whatsapp Advertisement</string>
+    <string name="push_notification">Push Notification</string>
+</resources>

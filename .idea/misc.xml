@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/pc/AndroidStudioProjects/g_p/app/src/main/res/drawable/bg_down.xml" value="0.228125" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/g_p/app/src/main/res/drawable/bg_next.xml" value="0.228125" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/g_p/app/src/main/res/drawable/bg_story_dim.xml" value="0.228125" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/g_p/app/src/main/res/drawable/editext_shape.xml" value="0.228125" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/g_p/app/src/main/res/drawable/ic_drop_down.xml" value="0.228125" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/g_p/app/src/main/res/drawable/ic_img.xml" value="0.228125" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/g_p/app/src/main/res/drawable/recbgprogress.xml" value="0.228125" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/g_p/app/src/main/res/drawable/spinner_dropdown.xml" value="0.228125" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/g_p/app/src/main/res/font/quicksand_bold.xml" value="0.2421875" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/g_p/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/g_p/app/src/main/res/layout/activity_main2.xml" value="0.33" />
+        <entry key="..\:/Users/pc/AndroidStudioProjects/g_p/app/src/main/res/layout/custom_spinner.xml" value="0.21197916666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
